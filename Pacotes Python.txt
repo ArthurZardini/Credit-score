@@ -1,0 +1,6 @@
+pacotes iniciais do python: https://docs.python.org/3/py-modindex.html
+pacotes para baixar: https://pypi.org/
+
+
+!pip freeze  = no google colab, para ver os pacotes instalados na máquina do google
+e pesquisá-los no pypi.org, para encontrar pacotes úteis
